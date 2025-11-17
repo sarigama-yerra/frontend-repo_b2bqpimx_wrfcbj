@@ -3,9 +3,7 @@
 > vite
 
 
-  VITE v5.4.20  ready in 261 ms
+  VITE v5.4.20  ready in 279 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.7.136:3000/
-1:54:42 AM [vite] ✨ new dependencies optimized: react-dom/client, react-router-dom
-1:54:42 AM [vite] ✨ optimized dependencies changed. reloading
